@@ -55,6 +55,6 @@ _reactNative.Keyboard.removeListener is not a function
 ####  Follow the next steps: [RemoveListenerError](https://stackoverflow.com/questions/68696600/reactnative-keyboard-removelistener-is-not-a-function)
 ####  Replace the code on MessageContainer.js
 #### This file is in the next direction: BLUEMATE_APP/node_modules/react-native-gifted-chat/lib/MessageContainer.js
-(ImageCodeReplace)[https://github.com/PPMike/BlueMate_APP/blob/main/imagen_2023-02-18_035853056.png]
+[ImageCodeReplace](https://github.com/PPMike/BlueMate_APP/blob/main/imagen_2023-02-18_035853056.png)
 
  
